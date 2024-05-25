@@ -1,0 +1,2 @@
+touch my_dream.txt
+echo "Моя мечта - стать отличным программистом!" > my_dream.txt
